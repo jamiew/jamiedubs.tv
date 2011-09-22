@@ -1,0 +1,22 @@
+h1. JAMIEDUBSTV
+
+Powered by the "VHX.TV":http://vhx.tv embeddable player (now with mobile device support)
+
+Streams all the videos I've shared on "vhx.tv/jamiew":http://vhx.tv/jamiew
+
+Other video-player projects I'm working on:
+
+* "SHOW ME x NON-STOP":http://github.com/jamiew/nonstop
+* "Reblogvision":http://github.com/jamiew/reblogvision
+
+And finally:
+
+* "dev.vhx.tv API docs":http://dev.vhx.tv
+
+h1. Authors
+
+* "Jamie Wilkinson":http://jamiedubs.com ("@jamiew":http://github.com/jamiew)
+
+h1. License
+
+This source code is released under an MIT license.
